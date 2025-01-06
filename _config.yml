@@ -22,12 +22,12 @@ repository               : "JennyVivian99/JennyVivian99.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
- # name             : "Your Sidebar Name"
- # pronouns         : # example: "she/her"  
- # bio              : "Short biography for the left-hand sidebar"
+ name             : 
+ pronouns         :  
+ bio              : 
   location         : "Sunshine Coast, QLD, Australia"
   employer         : "University of the Sunshine Coast, Forest Research Institute"
- # uri              : # URL
+ uri              : 
   email            : "jenny.vivian@research.usc.edu.au" 
 
   # Academic websites
