@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+y Vivian# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jenny Vivian"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jenny Vivian"
+description              : &description "PhD candidate at University of the Sunshine Coast"
 url                      : https://JennyVivian99.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JennyVivian99/JennyVivian99.github.io"
@@ -22,23 +22,23 @@ repository               : "JennyVivian99/JennyVivian99.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+ # name             : "Your Sidebar Name"
+ # pronouns         : # example: "she/her"  
+ # bio              : "Short biography for the left-hand sidebar"
+  location         : "Sunshine Coast, QLD, Australia"
+  employer         : "University of the Sunshine Coast, Forest Research Institute"
+ # uri              : # URL
+  email            : "jenny.vivian@research.usc.edu.au" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+ # arxiv            : # URL - Update with the correct link to your profile
+ # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #impactstory      : # URL
+ # orcid            : "http://orcid.org/yourorcidurl"
+  #semantic         : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+ # researchgate     : "https://www.researchgate.net/profile/Jenny-Vivian"
+#  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/jenny-vivian-a0703a270/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
