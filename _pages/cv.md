@@ -21,15 +21,15 @@ Education
 
 Work experience
 ======
-* December 2024-ongoing: Lead Convenor of Special Interest Network "Integrated Forest Restoration", part of the Ecological Society of Australia
-* November 2024-Ongoing: Internship at [Sequench Ltd](https://www.sequench.co.nz/)
+*December 2024-ongoing:  Lead Convenor of Special Interest Network "Integrated Forest Restoration", part of the Ecological Society of Australia
+* November 2024-ongoing:  Internship at [Sequench Ltd](https://www.sequench.co.nz/)
   * Environmental DNA sequencing (from samples preparation to bioinformatics analysis) using Illumina NextSeq 2000
   * Exploration of other sequencing techniques and analyses
-* February 2024-June 2024: Teacher assistant for the course “Discovering Science”
+* February 2024-June 2024:  Teacher assistant for the course “Discovering Science”
   * University of the Sunshine Coast
   * Supervisor: Professor Gareth Chalmers
 
-* October 2022-March 2023: Teacher assistant for the course “Biological Laboratory Techniques (Ecology module)”
+* October 2022-March 2023:  Teacher assistant for the course “Biological Laboratory Techniques (Ecology module)”
   * University of Parma
   * Supervisor: Professor Valeria Rossi
   
