@@ -32,7 +32,7 @@ Work experience
   * University of Parma
   * Supervisor: Professor Valeria Rossi
   
-Skills
+Technical skills
 ======
 * Mother tongue: Italian
 * Other languages:
@@ -43,35 +43,36 @@ Skills
 
 Awards
 ======
-* Bursary to attend the Australian & New Zealand Environmental DNA (eDNA) Conference (Wellington, 2025)
-* Travel Award from the Theo Murphy Initiative (Australia) administered by the Australian Academy of Science, Ecological Society of Australia Plant-Soil Ecology Special Interest Network, to attend the ESA conference and workshops (Melbourne, December 2024)
+* February 2025: Bursary to attend the Australian & New Zealand Environmental DNA (eDNA) Conference (Wellington, 2025)
+* December 2024: Travel Award from the Theo Murphy Initiative (Australia) administered by the Australian Academy of Science, Ecological Society of Australia Plant-Soil Ecology Special Interest Network, to attend the ESA conference and workshops (Melbourne, December 2024)
 Travel Award from the Ecological Society of Australia, to attend the ESA conference (Melbourne, December 2024)
-* Scholarship for the final grade obtained for my Master’s degree (2023) from the local authority (January 2024)
-* Grant to participate in the Blended Intensive Programme “Towards a Sustainable Water Management” at the University of Extremadura (Spain), financed by ERASMUS+ SMS Short Mobility Grant, managed by the University of Parma in accordance with ERASMUS+ National Agency (June 2023)
-* Grant to participate in the "International Summer School - Pollutions in Coastal Areas” at the University of Gdanks (Poland), from the project itself, financed under the Knowledge Education Development Operational Program of the European Commission (September 2022)
-Scholarship of merit, 2nd place, year 2018-2019, from Ca’ Foscari University of Venice (March 2020)
+* January 2024: Scholarship for the final grade obtained for my Master’s degree (2023) from the local authority
+* June 2023: Grant to participate in the Blended Intensive Programme “Towards a Sustainable Water Management” at the University of Extremadura (Spain), financed by ERASMUS+ SMS Short Mobility Grant, managed by the University of Parma in accordance with ERASMUS+ National Agency
+* September 2022: Grant to participate in the "International Summer School - Pollutions in Coastal Areas” at the University of Gdanks (Poland), from the project itself, financed under the Knowledge Education Development Operational Program of the European Commission
+* March 2020: Scholarship of merit, 2nd place, year 2018-2019, from Ca’ Foscari University of Venice
 
 Conferences
 ======
-* Poster presentation of my research and early results at the Ecological Society Conference (ESA; Melbourne, December 2024)
-* Poster presentation of my research at the University of the Sunshine Coast Conference (September 2024), entitled ""
-* Presentation of a project at “Airborne eDNA workshop” (Canberra, June 2024), entitled “Air DNA analysis and Machine Learning: a promising collaboration”
-* Presentation of a project at “ClimateExp0” (Online, May 2021). The poster and video presentation were entitled “Sustainable agriculture approaches”
+* Ecological Society Conference (ESA; Melbourne), December 2024: Poster presentation of my research and early results
+* University of the Sunshine Coast Conference, September 2024: Poster presentation of my research at the , entitled "The effect of reforestation using Acacia mangium on 
+above- and below-ground ecosystem properties"
+* Airborne eDNA workshop (Canberra, attended online), June 2024: Presentation of a project entitled “Air DNA analysis and Machine Learning: a promising collaboration”
+* Climate Exp0 (Online), May 2021: Presentation of a project entitled “Sustainable agriculture approaches”
 
 Memberships
 ====
-* Society for the Protection Of Underground Networks [(SPUN)](https://www.spun.earth) (2024-ongoing)
-* [Australasian Mycological Society](https://www.australasianmycologicalsociety.com/) (2024-ongoing)
+* December 2024-ongoing: Society for the Protection Of Underground Networks [(SPUN)](https://www.spun.earth)
+* June 2024-ongoing: [Australasian Mycological Society](https://www.australasianmycologicalsociety.com/)
 
 Other presentations
 =======
-* Cawthron Institute, (Nelson, New Zealand; December 2024)  presentation of my PhD research and early results
-* University of Auckland, presentation of my PhD research and early results to the Ecology and Evolutionary Biology group at School of Biological Sciences (Auckland, New Zealand; November 2024)
-* Presentation of “Sustainability: what can we do?” at the Forest Research Institute of the University of the Sunshine Coast. The presentation was focused on the basics of sustainability and actions to improve this concept in our life (October 2024)
+* December 2024: Cawthron Institute (Nelson, New Zealand)  presentation of my PhD research and early results
+* November 2024: University of Auckland (Auckland, New Zealand), presentation of my PhD research and early results to the Ecology and Evolutionary Biology group at School of Biological Sciences
+* October 2024: Forest Research Institute of the University of the Sunshine Coast (Queensland, Australia), presentation of “Sustainability: what can we do?”. The presentation was focused on the basics of sustainability and actions to improve this concept in our life
 
 Relevant Accomplishment
 =====
-* Admitted to the Life Science Zurich Graduate School PhD Program in Ecology at the University of Zurich / ETH Zurich. No available PhD positions were present
+* January 2023: Admitted to the Life Science Zurich Graduate School PhD Program in Ecology at the University of Zurich / ETH Zurich. No available PhD positions were present
 
 
 
