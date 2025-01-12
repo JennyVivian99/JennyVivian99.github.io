@@ -64,6 +64,7 @@ Memberships
 ====
 * December 2024-ongoing: Society for the Protection Of Underground Networks [(SPUN)](https://www.spun.earth)
 * June 2024-ongoing: [Australasian Mycological Society](https://www.australasianmycologicalsociety.com/)
+* June 2024: Member of the [Ecological Society of Australia](https://www.ecolsoc.org.au/)
 
 Other presentations
 =======
