@@ -90,13 +90,13 @@
   }
 
   img {
-   text-align: center;
+   position: center;
     max-width: 125px;
     border-radius: 0%;
 
     @include breakpoint($large) {
-      padding: 2px;
-      border: 3px solid $border-color;
+      padding: 5px;
+      border: 1px solid lightblue;
     }
   }
 }
