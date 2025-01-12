@@ -46,7 +46,7 @@ Awards
 ======
 * February 2025: Bursary to attend the Australian & New Zealand Environmental DNA (eDNA) Conference (Wellington, 2025)
 * December 2024: Travel Award from the Theo Murphy Initiative (Australia) administered by the Australian Academy of Science, Ecological Society of Australia Plant-Soil Ecology Special Interest Network, to attend the ESA conference and workshops (Melbourne, December 2024)
-Travel Award from the Ecological Society of Australia, to attend the ESA conference (Melbourne, December 2024)
+* December 2024: Travel Award from the Ecological Society of Australia, to attend the ESA conference (Melbourne, December 2024)
 * January 2024: Scholarship for the final grade obtained for my Master’s degree (2023) from the local authority
 * June 2023: Grant to participate in the Blended Intensive Programme “Towards a Sustainable Water Management” at the University of Extremadura (Spain), financed by ERASMUS+ SMS Short Mobility Grant, managed by the University of Parma in accordance with ERASMUS+ National Agency
 * September 2022: Grant to participate in the "International Summer School - Pollutions in Coastal Areas” at the University of Gdanks (Poland), from the project itself, financed under the Knowledge Education Development Operational Program of the European Commission
