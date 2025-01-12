@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* November 2024-Ongoing: Internship at [Sequench Ltd][https://www.sequench.co.nz/]
+* November 2024-Ongoing: Internship at [Sequench Ltd](https://www.sequench.co.nz/)
   * Environmental DNA sequencing (from samples preparation to bioinformatics analysis) using Illumina NextSeq 2000
   * Exploration of other sequencing techniques and analyses
 * February 2024-June 2024: Teacher assistant for the course “Discovering Science”
