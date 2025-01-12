@@ -13,7 +13,7 @@ To evaluate the extent to which minimally managed plantations of Acacia mangium 
 subsequent colonization by native vegetation have similar microbial communities, above-ground 
 biomass, and soil fertility compared to remnant forests and Imperata cylindrica grasslands within the 
 same region and to assess interactions among these aspects of recovery.
-[[paper]](https://arxiv.org/abs/2401.01268)  [[code]](https://github.com/nicolaNovello/discriminative-classification-fDiv)
+
 The project is embedded in [Project Tarsier](https://www.usc.edu.au/research/forest-research-institute/project-tarsier) 
 
 
