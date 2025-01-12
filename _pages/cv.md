@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* November 2024-Ongoing: Internship at [[Sequench Ltd]] [https://www.sequench.co.nz/]
+* November 2024-Ongoing: Internship at [Sequench Ltd] [https://www.sequench.co.nz/]
   * Environmental DNA sequencing (from samples preparation to bioinformatics analysis) using Illumina NextSeq 2000
   * Exploration of other sequencing techniques and analyses
 * February 2024-June 2024: Teacher assistant for the course “Discovering Science”
@@ -60,8 +60,8 @@ Conferences
 
 Memberships
 ====
-* Society for the Protection Of Underground Networks [[(SPUN)]] (https://www.spun.earth/) (2024-ongoing)
-* [[Australasian Mycological Society]] (https://www.australasianmycologicalsociety.com/) (2024-ongoing)
+* Society for the Protection Of Underground Networks [(SPUN)] (https://www.spun.earth/) (2024-ongoing)
+* [Australasian Mycological Society] (https://www.australasianmycologicalsociety.com/) (2024-ongoing)
 
 Other presentations
 =======
