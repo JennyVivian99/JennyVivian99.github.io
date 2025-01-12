@@ -58,8 +58,20 @@ Conferences
 * Presentation of a project at “Airborne eDNA workshop” (Canberra, June 2024), entitled “Air DNA analysis and Machine Learning: a promising collaboration”
 * Presentation of a project at “ClimateExp0” (Online, May 2021). The poster and video presentation were entitled “Sustainable agriculture approaches”
 
+Memberships
+====
+* Society for the Protection Of Underground Networks [[(SPUN)]] [https://www.spun.earth/] (2024-ongoing)
+* Australasian Mycological Society (2024-ongoing)
+
 Other presentations
 =======
+* Cawthron Institute, (Nelson, New Zealand; December 2024)  presentation of my PhD research and early results
+* University of Auckland, presentation of my PhD research and early results to the Ecology and Evolutionary Biology group at School of Biological Sciences (Auckland, New Zealand; November 2024)
+* Presentation of “Sustainability: what can we do?” at the Forest Research Institute of the University of the Sunshine Coast. The presentation was focused on the basics of sustainability and actions to improve this concept in our life (October 2024).
+
+Relevant Accomplishment
+=====
+* Admitted to the Life Science Zurich Graduate School PhD Program in Ecology at the University of Zurich / ETH Zurich. No available PhD positions were present. 
 
 
 
