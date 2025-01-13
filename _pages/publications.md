@@ -20,5 +20,5 @@ Philosophical Transactions of the Royal Society B, June 2024
 
 Website visits
 =========
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mYlvGMgZtNutq9Ne3EAA3c84i8wiRCqkit9gBMpc_08"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=mYlvGMgZtNutq9Ne3EAA3c84i8wiRCqkit9gBMpc_08'></script>
 
