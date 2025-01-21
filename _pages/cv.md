@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * November 2023-ongoing: Ph.D in Forestry Studies, University of the Sunshine Coast, Queensland, Australia
-* September 2021-July 2023: M.S. in Ecology and Ethology for Nature Conservation. Final thesis entitled “The Colombian socio-ecological system: dynamics of deforestation between conflicts and conservation”
+* September 2021-July 2023: M.S. in Ecology and Ethology for Nature Conservation. Final thesis entitled “The Colombian socio-ecological system: dynamics of deforestation between conflicts and conservation”                                                                  
   Final grade: 110 cum laude and Honorable Mention
   University of Parma, Italy
-* September 2018-July 2021: B.S. in Environmental Sciences. Final thesis entitled "Abiotic stresses mitigation by NK fertilizer on seeds of ancient cereals"
+* September 2018-July 2021: B.S. in Environmental Sciences. Final thesis entitled "Abiotic stresses mitigation by NK fertilizer on seeds of ancient cereals"                                                                                                           
   Final grade: 110 cum laude
   University of Ca’ Foscari, Venice, Italy
 
