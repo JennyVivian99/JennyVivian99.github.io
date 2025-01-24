@@ -18,6 +18,6 @@ The project is embedded in [Project Tarsier](https://www.usc.edu.au/research/for
 
 Other projects
 ====
-- Analysis of the complex socio-ecological system of Colombia through ecological modelling
-- Development of knowledge and technical methods for Air DNA analysis and collection
-- Recognition of gaps and future opportunities for future studies on soil fungi and bacteria
+- Analysis of the complex socio-ecological system of Colombia through ecological modelling.
+- Development of knowledge and technical methods for Air DNA analysis and collection.
+- Recognition of gaps and future opportunities for future studies on soil fungi and bacteria.
