@@ -14,10 +14,10 @@ subsequent colonization by native vegetation have similar microbial communities,
 biomass, and soil fertility compared to remnant forests and _Imperata cylindrica_ grasslands within the 
 same region and to assess interactions among these aspects of recovery.
 
-The project is embedded in [Project Tarsier](https://www.usc.edu.au/research/forest-research-institute/project-tarsier) 
+The project is embedded in [Project Tarsier](https://www.usc.edu.au/research/forest-research-institute/project-tarsier).
 
 Other projects
 ====
-- Analysis of the complex socio-ecological system of Colombia through ecological modelling.
-- Development of knowledge and technical methods for Air DNA analysis and collection.
-- Recognition of gaps and future opportunities for future studies on soil fungi and bacteria.
+- Analysis of the complex socio-ecological system of Colombia through ecological modelling
+- Development of knowledge and technical methods for Air DNA analysis and collection
+- Recognition of gaps and future opportunities for future studies on soil fungi and bacteria
