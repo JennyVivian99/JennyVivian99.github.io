@@ -23,7 +23,8 @@ Education
 
 Work experience
 ======
-* Lead Convenor of Special Interest Network "Integrated Forest Restoration", part of the Ecological Society of Australia (December 2024-ongoing) 
+* Lead Convenor of Special Interest Network "Integrated Forest Restoration",                                                                                                                                     
+  part of the Ecological Society of Australia (December 2024-ongoing) 
 * Internship at [Sequench Ltd](https://www.sequench.co.nz/) (November 2024-ongoing)
   * Environmental DNA sequencing (from samples preparation to bioinformatics analysis) using Illumina NextSeq 2000
   * Exploration of other sequencing techniques and analyses
