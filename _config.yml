@@ -25,9 +25,9 @@ author:
   name             : "Jenny Vivian"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at University of the Sunshine Coast"
-  location         : "University of the Sunshine Coast, Sippy Downs, Building B, Room SD-B.1.57"
+  location         : "**[Sippy Downs]( https://maps.app.goo.gl/k5KSSBhatPRHYCvV9)** , Queensland, Australia"
   employer         : #"Red Brick University"
-  uri              : "https://maps.app.goo.gl/k5KSSBhatPRHYCvV9"
+  uri              : #"https://maps.app.goo.gl/k5KSSBhatPRHYCvV9"
   email            : "Jenny.vivian@research.usc.edu.au" 
 
   # Academic websites
