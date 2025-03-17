@@ -69,6 +69,7 @@ Memberships
 * [Australasian Mycological Society](https://www.australasianmycologicalsociety.com/) (June 2024-ongoing)
 * Member of the [Ecological Society of Australia](https://www.ecolsoc.org.au/) (June 2024-ongoing)
 * Member of the [Society of Ecological Restoration](https://www.ser.org/) (March 2025-ongoing)
+* Member of the [Society for Conservation Biology](https://conbio.org/)(March 2025-ongoing)
 
 Other presentations
 =======
