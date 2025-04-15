@@ -44,8 +44,8 @@ Technical skills
 * Other languages:
   * English, TOEFL iBT, 108/120 (as C1 in  Common European Framework of Reference)
 * Technical skills:
-  * Fluent use of programs such as R (for ecological and bioinformatics analysis), QGIS.
-  * Other programs: Past, Weka
+  * Fluent use of: R (for ecological and bioinformatics analysis), QGIS
+  * Other programs: Phyton
 
 Awards
 ======
