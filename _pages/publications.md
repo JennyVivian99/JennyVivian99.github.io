@@ -10,7 +10,10 @@ author_profile: true
 
 PhD related
 =========
-
+1. [Early Evidences of Links Between Soil Microbes and Forest Restoration Through Multiple Ecosystem Metrics]
+(https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2025.1540513/full)
+**Jenny Vivian**, Robin Chazdon, Alexandra A. Catling and David J. Lee
+Frontiers in Forests and Global Change, May 2025
 
 Other projects
 ========
@@ -18,7 +21,7 @@ Other projects
 Antonio Bodini, **Jenny Vivian**, Juan Vargas, Nicola Clerici and Marco Scotti                                                        
 Philosophical Transactions of the Royal Society B, June 2024
 2. [Winds of change: Charting a pathway to ecosystem monitoring using airborne environmental DNA](https://ecoevorxiv.org/repository/view/8711/)                              
-Rachel L. Tulloch, Clare I.M. Adams, Matthew A. Barnes, Elizabeth L. Clare, Henrik C. van de Ven, Andrew Cridge, Francisco Encinas-Viso, Kristen Fernandes, Dianne M. Gleeson, Erin Hill, Anna J.M. Hopkins, Anna M. Kearns, Gracie C. Kroos, Anna J. MacDonald, Francesco Martoni, Angela McGaughran, Todd G.B. McLay, Linda E Neaves, Paul Nevill, Andrew Pugh, Kye J. Robinson, Fabian Roger, Tracey V. Steinrucken, Mieke van der Heyde, Cecilia Villacorta-Rath, **Jenny Vivian**, Erin Hahn                          
+Rachel L. Tulloch, Clare I.M. Adams, Matthew A. Barnes, Elizabeth L. Clare, Henrik C. van de Ven, Andrew Cridge, Francisco Encinas-Viso, Kristen Fernandes, Dianne M. Gleeson, Erin Hill, Anna J.M. Hopkins, Anna M. Kearns, Gracie C. Kroos, Anna J. MacDonald, Francesco Martoni, Angela McGaughran, Todd G.B. McLay, Linda E Neaves, Paul Nevill, Andrew Pugh, Kye J. Robinson, Fabian Roger, Tracey V. Steinrucken, Mieke van der Heyde, Cecilia Villacorta-Rath, **Jenny Vivian** and Erin Hahn                          
 Preprint in ecoevorxiv
 
 Website visits
