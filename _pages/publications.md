@@ -10,8 +10,7 @@ author_profile: true
 
 PhD related
 =========
-1. [Early Evidences of Links Between Soil Microbes and Forest Restoration Through Multiple Ecosystem Metrics]
-(https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2025.1540513/full)
+1. [Early Evidences of Links Between Soil Microbes and Forest Restoration Through Multiple Ecosystem Metrics](https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2025.1540513/full)
 **Jenny Vivian**, Robin Chazdon, Alexandra A. Catling and David J. Lee
 Frontiers in Forests and Global Change, May 2025
 
