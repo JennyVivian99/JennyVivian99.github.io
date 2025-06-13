@@ -16,6 +16,11 @@ Education
   Final thesis entitled “The Colombian socio-ecological system: dynamics of deforestation between conflicts and conservation”                                                                  
   Final grade: 110 cum laude and Honorable Mention
   University of Parma, Italy
+  * Blended Intensive Programme “Towards a Sustainable Water Management” (6 ECTS). Held at the University of Extremadura (Spain),
+    part of the EuGreen “European Alliance for Sustainability, responsible growth, inclusive education and Environment.
+  * “Polca” (Pollutions in Coastal Areas) Summer School (4 ECTS)
+    It was held in Professor Krzysztof Skóra Hel Marine Station of the University of Gdańsk (Poland), in the 
+    frames of the project: "International Summer School - Pollutions in Coastal Areas”.
 * B.S. in Environmental Sciences (September 2018-July 2021)                                                                                                                                                     
   Final thesis entitled "Abiotic stresses mitigation by NK fertilizer on seeds of ancient cereals"                                                                                                           
   Final grade: 110 cum laude
@@ -49,18 +54,19 @@ Technical skills
 
 Awards
 ======
-* Bursary to attend the Australian & New Zealand Environmental DNA (eDNA) Conference (Wellington, 2025) (February 2025)
-* Travel Award from the Theo Murphy Initiative (Australia) administered by the Australian Academy of Science, Ecological Society of Australia Plant-Soil Ecology Special Interest Network, to attend the ESA conference and workshops (Melbourne, December 2024) (December 2024)
-* Travel Award from the Ecological Society of Australia, to attend the ESA conference (Melbourne, December 2024) (December 2024)
+* Partial funding to attend the Society of Ecological Restoration conference (Denver, October 2025)
+* Bursary to attend the Australian & New Zealand Environmental DNA (eDNA) Conference (Wellington, February 2025)
+* Travel Award from the Theo Murphy Initiative (Australia) administered by the Australian Academy of Science, Ecological Society of Australia Plant-Soil Ecology Special Interest Network, to attend the ESA conference and workshops (Melbourne, December 2024)
+* Travel Award from the Ecological Society of Australia, to attend the ESA conference (Melbourne, December 2024)
 * Scholarship for the final grade obtained for my Master’s degree (2023) from the local authority (January 2024)
 * Grant to participate in the Blended Intensive Programme “Towards a Sustainable Water Management” at the University of Extremadura (Spain), financed by ERASMUS+ SMS Short Mobility Grant, managed by the University of Parma in accordance with ERASMUS+ National Agency (June 2023)
-* Grant to participate in the "International Summer School - Pollutions in Coastal Areas” at the University of Gdanks (Poland), from the project itself, financed under the Knowledge Education Development Operational Program of the European Commission (September 2022)
+* Grant to participate in the "International Summer School - Pollutions in Coastal Areas” at the University of Gdansk (Poland), from the project itself, financed under the Knowledge Education Development Operational Program of the European Commission (September 2022)
 * Scholarship of merit, 2nd place, year 2018-2019, from Ca’ Foscari University of Venice (March 2020)
 
 Conferences
 ======
 * Ecological Society Conference (ESA; December 2024, Melbourne): Poster presentation of my research and early results
-* University of the Sunshine Coast Conference (Sippy Downs, September 2024): Poster presentation of my research at the , entitled "The effect of reforestation using Acacia mangium on 
+* University of the Sunshine Coast Conference (Sippy Downs, September 2024): Poster presentation of my research at the University of the Sunshine Coast Research Showcase, entitled "The effect of reforestation using Acacia mangium on 
 above- and below-ground ecosystem properties"
 * Airborne eDNA workshop (June 2024, Canberra, attended online): Presentation of a project entitled “Air DNA analysis and Machine Learning: a promising collaboration”
 * Climate Exp0 (May 2021, Online): Presentation of a project entitled “Sustainable agriculture approaches”
