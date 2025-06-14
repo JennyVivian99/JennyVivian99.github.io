@@ -18,6 +18,7 @@ The project is embedded in [Project Tarsier](https://www.usc.edu.au/research/for
 
 Other projects
 ====
+- Science communication through [Integrated Forest Restoration](https://www.ecolsoc.org.au/category/research-chapters/integrated-forest-restoration/) hub, of which I am the Chair
 - Analysis of the complex socio-ecological system of Colombia through ecological modelling
 - Development of knowledge and technical methods for Air DNA analysis and collection
 - Recognition of gaps and future opportunities for future studies on soil fungi and bacteria
