@@ -28,7 +28,7 @@ Education
 
 Work experience
 ======
-* Lead Convenor of Special Interest Network "Integrated Forest Restoration",                                                                                                  
+* Lead Convenor of Special Interest Network ["Integrated Forest Restoration"](https://www.ecolsoc.org.au/category/research-chapters/integrated-forest-restoration/),                                                                                                  
   part of the Ecological Society of Australia (December 2024-ongoing)
   
 * Internship at [Sequench Ltd](https://www.sequench.co.nz/) (November 2024-March 2025; New Zealand)
