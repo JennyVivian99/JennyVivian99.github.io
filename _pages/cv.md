@@ -54,6 +54,7 @@ Technical skills
 
 Awards
 ======
+* Prize equal to 500 AUD for the development of my research (from 1st place in the 3-minutes-thesis competition at Forest Research Institute of the University of the Sunshine Coast, June 2025)
 * Partial funding to attend the Society of Ecological Restoration conference (Denver, October 2025)
 * Bursary to attend the Australian & New Zealand Environmental DNA (eDNA) Conference (Wellington, February 2025)
 * Travel Award from the Theo Murphy Initiative (Australia) administered by the Australian Academy of Science, Ecological Society of Australia Plant-Soil Ecology Special Interest Network, to attend the ESA conference and workshops (Melbourne, December 2024)
@@ -65,11 +66,13 @@ Awards
 
 Conferences
 ======
-* Ecological Society Conference (ESA; December 2024, Melbourne): Poster presentation of my research and early results
-* University of the Sunshine Coast Conference (Sippy Downs, September 2024): Poster presentation of my research at the University of the Sunshine Coast Research Showcase, entitled "The effect of reforestation using Acacia mangium on 
+* International Conference on Conservation Biology (ICCB; June 2025): presentation of part of my project results, entitled "Recovery of tree communities and above-ground carbon stock in Acacia mangium reforestation sites​" 
+* Australian & New Zealand Environmental DNA (eDNA) Conference (Wellington, February 2025): presentation of part of my project results, entitled "Evaluating soil fungi and bacteria in Acacia mangium plantations and remnant forests in the Philippines using environmental DNA​" 
+* Ecological Society Conference (ESA; December 2024, Melbourne): poster presentation of my research and early results
+* University of the Sunshine Coast Conference (Sippy Downs, September 2024): poster presentation of my research at the University of the Sunshine Coast Research Showcase, entitled "The effect of reforestation using Acacia mangium on 
 above- and below-ground ecosystem properties"
-* Airborne eDNA workshop (June 2024, Canberra, attended online): Presentation of a project entitled “Air DNA analysis and Machine Learning: a promising collaboration”
-* Climate Exp0 (May 2021, Online): Presentation of a project entitled “Sustainable agriculture approaches”
+* Airborne eDNA workshop (June 2024, Canberra, attended online): presentation of a project entitled “Air DNA analysis and Machine Learning: a promising collaboration”
+* Climate Exp0 (May 2021, Online): presentation of a project entitled “Sustainable agriculture approaches”
 
 Memberships
 ====
@@ -77,7 +80,8 @@ Memberships
 * [Australasian Mycological Society](https://www.australasianmycologicalsociety.com/) (June 2024-ongoing)
 * Member of the [Ecological Society of Australia](https://www.ecolsoc.org.au/) (June 2024-ongoing)
 * Member of the [Society of Ecological Restoration](https://www.ser.org/) (March 2025-ongoing)
-* Member of the [Society for Conservation Biology](https://conbio.org/)(March 2025-ongoing)
+* Member of the [Society for Conservation Biology](https://conbio.org/) (March 2025-ongoing)
+* Member of the [Forestry Australia Association](https://www.forestry.org.au/) (June 2025-ongoing)
 
 Other presentations
 =======
