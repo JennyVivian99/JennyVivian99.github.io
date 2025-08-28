@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 Research on tropical ecology, with a focus on the development of the environment after deforestation.
-With a background in modelling ecology, I adopt the holistic approach to understand comprehensively the evolution of the natural system.
+With a background in ecological modelling, I adopt an integrated approach to better understand the evolution of the natural systems, especially tropical forest recovery.
 
 !["WebsiteHome.png"](images/WebsiteHome.png)
