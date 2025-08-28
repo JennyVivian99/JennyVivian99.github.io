@@ -49,20 +49,23 @@ Technical skills
 * Other languages:
   * English, TOEFL iBT, 108/120 (as C1 in  Common European Framework of Reference)
 * Technical skills:
-  * Fluent use of: R (for ecological and bioinformatics analysis), QGIS
-  * Other programs: Phyton
+  * Fluent use of: R (for ecological and bioinformatics analysis)
+  * Other programs: Python, QGIS
+
+Grants
+=======
+* Grant to participate in the Blended Intensive Programme “Towards a Sustainable Water Management” at the University of Extremadura (Spain), financed by ERASMUS+ SMS Short Mobility Grant, managed by the University of Parma in accordance with ERASMUS+ National Agency (travel and accommodation expenses fully covered) (June 2023)
+* Grant to participate in the "International Summer School - Pollutions in Coastal Areas” at the University of Gdansk (Poland), from the project itself, financed under the Knowledge Education Development Operational Program of the European Commission (travel and accommodation expenses fully covered) (September 2022)
+* Bursary to attend the Australian & New Zealand Environmental DNA (eDNA) Conference (up to 2300 AUD) (Wellington, February 2025)
+* Travel Award from the Ecological Society of Australia, to attend the ESA conference (150 AUD) (Melbourne, December 2024)
 
 Awards
 ======
-* Prize equal to 500 AUD for the development of my research (from 1st place in the 3-minutes-thesis competition at Forest Research Institute of the University of the Sunshine Coast, June 2025)
-* Partial funding to attend the Society of Ecological Restoration conference (Denver, October 2025)
-* Bursary to attend the Australian & New Zealand Environmental DNA (eDNA) Conference (Wellington, February 2025)
-* Travel Award from the Theo Murphy Initiative (Australia) administered by the Australian Academy of Science, Ecological Society of Australia Plant-Soil Ecology Special Interest Network, to attend the ESA conference and workshops (Melbourne, December 2024)
-* Travel Award from the Ecological Society of Australia, to attend the ESA conference (Melbourne, December 2024)
-* Scholarship for the final grade obtained for my Master’s degree (2023) from the local authority (January 2024)
-* Grant to participate in the Blended Intensive Programme “Towards a Sustainable Water Management” at the University of Extremadura (Spain), financed by ERASMUS+ SMS Short Mobility Grant, managed by the University of Parma in accordance with ERASMUS+ National Agency (June 2023)
-* Grant to participate in the "International Summer School - Pollutions in Coastal Areas” at the University of Gdansk (Poland), from the project itself, financed under the Knowledge Education Development Operational Program of the European Commission (September 2022)
-* Scholarship of merit, 2nd place, year 2018-2019, from Ca’ Foscari University of Venice (March 2020)
+* Prize for the development of my research (from 1st place in the 3-minutes thesis competition at Forest Research Institute of the University of the Sunshine Coast (500 AUD) (June 2025)
+* Partial funding to attend the Society of Ecological Restoration conference (200 USD) (Denver, October 2025)
+* Travel Award from the Theo Murphy Initiative (Australia) administered by the Australian Academy of Science, Ecological Society of Australia Plant-Soil Ecology Special Interest Network, to attend the ESA conference and workshops (1000 AUD) (Melbourne, December 2024)
+* Scholarship for the final grade obtained for my Master’s degree (2023) from the local authority (500 EU) (January 2024)
+* Scholarship of merit, 2nd place, year 2018-2019, from Ca’ Foscari University of Venice (1000 EU) (March 2020)
 
 Conferences
 ======
@@ -85,7 +88,7 @@ Memberships
 Other presentations
 =======
 * Cawthron Institute (Nelson, New Zealand)  presentation of my PhD research and early results (December 2024)
-* University of Auckland (Auckland, New Zealand), presentation of my PhD research and early results to the Ecology and Evolutionary Biology group at School of Biological Sciences (November 2024)
+* University of Auckland (Auckland, New Zealand), presentation of my PhD research and early results to the Ecology and Evolutionary Biology group at the School of Biological Sciences (November 2024)
 * Forest Research Institute of the University of the Sunshine Coast (Queensland, Australia), presentation of “Sustainability: what can we do?”. The presentation was focused on the basics of sustainability and actions to improve this concept in our life (October 2024)
 
 Relevant Accomplishment
