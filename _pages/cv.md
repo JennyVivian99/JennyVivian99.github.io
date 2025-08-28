@@ -52,19 +52,16 @@ Technical skills
   * Fluent use of: R (for ecological and bioinformatics analysis)
   * Other programs: Python, QGIS
 
-Grants
-=======
-* Bursary to attend the Australian & New Zealand Environmental DNA (eDNA) Conference (up to 2300 AUD) (Wellington, February 2025)
-* Travel Award from the Ecological Society of Australia, to attend the ESA conference (150 AUD) (Melbourne, December 2024)
-* Grant to participate in the Blended Intensive Programme “Towards a Sustainable Water Management” at the University of Extremadura (Spain), financed by ERASMUS+ SMS Short Mobility Grant, managed by the University of Parma in accordance with ERASMUS+ National Agency (travel and accommodation expenses fully covered) (June 2023)
-* Grant to participate in the "International Summer School - Pollutions in Coastal Areas” at the University of Gdansk (Poland), from the project itself, financed under the Knowledge Education Development Operational Program of the European Commission (travel and accommodation expenses fully covered) (September 2022)
-
-Awards
+Grants and awards
 ======
 * Prize for the development of my research (from 1st place in the 3-minutes thesis competition at Forest Research Institute of the University of the Sunshine Coast (500 AUD) (June 2025)
+* Bursary to attend the Australian & New Zealand Environmental DNA (eDNA) Conference (up to 2300 AUD) (Wellington, February 2025)
 * Partial funding to attend the Society of Ecological Restoration conference (200 USD) (Denver, October 2025)
-* Travel Award from the Theo Murphy Initiative (Australia) administered by the Australian Academy of Science, Ecological Society of Australia Plant-Soil Ecology Special Interest Network, to attend the ESA conference and workshops (1000 AUD) (Melbourne, December 2024)
+* Travel Award from the Ecological Society of Australia, to attend the ESA conference (150 AUD) (Melbourne, December 2024)
+* Travel Award from the Theo Murphy Initiative (Australia) administered by the Australian Academy of Science, Ecological Society of Australia, Plant-Soil Ecology Special Interest Network, to attend the ESA conference and workshops (1000 AUD) (Melbourne, December 2024)
 * Scholarship for the final grade obtained for my Master’s degree (2023) from the local authority (500 EU) (January 2024)
+* Grant to participate in the Blended Intensive Programme “Towards a Sustainable Water Management” at the University of Extremadura (Spain), financed by ERASMUS+ SMS Short Mobility Grant, managed by the University of Parma in accordance with ERASMUS+ National Agency (travel and accommodation expenses fully covered) (June 2023)
+* Grant to participate in the "International Summer School - Pollutions in Coastal Areas” at the University of Gdansk (Poland), from the project itself, financed under the Knowledge Education Development Operational Program of the European Commission (travel and accommodation expenses fully covered) (September 2022)
 * Scholarship of merit, 2nd place, year 2018-2019, from Ca’ Foscari University of Venice (1000 EU) (March 2020)
 
 Conferences
