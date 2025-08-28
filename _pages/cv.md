@@ -54,10 +54,10 @@ Technical skills
 
 Grants
 =======
-* Grant to participate in the Blended Intensive Programme “Towards a Sustainable Water Management” at the University of Extremadura (Spain), financed by ERASMUS+ SMS Short Mobility Grant, managed by the University of Parma in accordance with ERASMUS+ National Agency (travel and accommodation expenses fully covered) (June 2023)
-* Grant to participate in the "International Summer School - Pollutions in Coastal Areas” at the University of Gdansk (Poland), from the project itself, financed under the Knowledge Education Development Operational Program of the European Commission (travel and accommodation expenses fully covered) (September 2022)
 * Bursary to attend the Australian & New Zealand Environmental DNA (eDNA) Conference (up to 2300 AUD) (Wellington, February 2025)
 * Travel Award from the Ecological Society of Australia, to attend the ESA conference (150 AUD) (Melbourne, December 2024)
+* Grant to participate in the Blended Intensive Programme “Towards a Sustainable Water Management” at the University of Extremadura (Spain), financed by ERASMUS+ SMS Short Mobility Grant, managed by the University of Parma in accordance with ERASMUS+ National Agency (travel and accommodation expenses fully covered) (June 2023)
+* Grant to participate in the "International Summer School - Pollutions in Coastal Areas” at the University of Gdansk (Poland), from the project itself, financed under the Knowledge Education Development Operational Program of the European Commission (travel and accommodation expenses fully covered) (September 2022)
 
 Awards
 ======
