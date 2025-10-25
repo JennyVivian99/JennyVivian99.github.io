@@ -28,8 +28,7 @@ Education
 
 Work experience
 ======
-* Lead Convenor of Special Interest Network ["Integrated Forest Restoration"](https://www.ecolsoc.org.au/category/research-chapters/integrated-forest-restoration/),                                                                                                  
-  part of the Ecological Society of Australia (December 2024-ongoing)
+* Lead Convenor of Special Interest Network ["Integrated Forest Restoration"](https://www.ecolsoc.org.au/category/research-chapters/integrated-forest-restoration/), part of the Ecological Society of Australia (December 2024-ongoing)
   
 * Internship at [Sequench Ltd](https://www.sequench.co.nz/) (November 2024-March 2025; New Zealand)
   * Environmental DNA sequencing (from sample preparation to bioinformatics analysis) using Illumina NextSeq 2000
@@ -54,6 +53,8 @@ Technical skills
 
 Grants and awards
 ======
+* Grant “Quantum and Advanced Technologies Talent Building Program” for the development of research on merging quantum computing in ecology, from the Queensland Government (20,000 AUD) (October 2025)
+* Culture Champion Award for "outstanding contributions helping to build and nurture the caring, supportive culture in the workplace" (50 AUD) (August 2025)
 * Prize for the development of my research (from 1st place in the 3-minutes thesis competition at Forest Research Institute of the University of the Sunshine Coast (500 AUD) (June 2025)
 * Bursary to attend the Australian & New Zealand Environmental DNA (eDNA) Conference (up to 2300 AUD) (Wellington, February 2025)
 * Partial funding to attend the Society of Ecological Restoration conference (200 USD) (Denver, October 2025)
@@ -66,13 +67,21 @@ Grants and awards
 
 Conferences
 ======
-* International Conference on Conservation Biology (ICCB; June 2025): presentation of part of my project results, entitled "Recovery of tree communities and above-ground carbon stock in Acacia mangium reforestation sites​" 
+* Forestry Australia Conference (Adelaide, October 2025): presentation of part of my project results, entitled "Trajectories of forest ecosystem recovery with Acacia mangium in the Philippines: what made it a successful story"
+* World conference on ecological restoration (SER2025; Denver, September 2025): presentation of part of my project results, entitled "Can Acacia mangium plantations develop properties of remnant forests? ​A Machine Learning perspective"
+* International Conference on Conservation Biology (ICCB; Brisbane, June 2025): presentation of part of my project results, entitled "Recovery of tree communities and above-ground carbon stock in Acacia mangium reforestation sites​" 
 * Australian & New Zealand Environmental DNA (eDNA) Conference (Wellington, February 2025): presentation of part of my project results, entitled "Evaluating soil fungi and bacteria in Acacia mangium plantations and remnant forests in the Philippines using environmental DNA​" 
 * Ecological Society Conference (ESA; December 2024, Melbourne): poster presentation of my research and early results
-* University of the Sunshine Coast Conference (Sippy Downs, September 2024): poster presentation of my research at the University of the Sunshine Coast Research Showcase, entitled "The effect of reforestation using Acacia mangium on 
-above- and below-ground ecosystem properties"
+* University of the Sunshine Coast Conference (Sippy Downs, September 2024): poster presentation of my research at the University of the Sunshine Coast Research Showcase, entitled "The effect of reforestation using Acacia mangium on above- and below-ground ecosystem properties"
 * Airborne eDNA workshop (June 2024, Canberra, attended online): presentation of a project entitled “Air DNA analysis and Machine Learning: a promising collaboration”
 * Climate Exp0 (May 2021, Online): presentation of a project entitled “Sustainable agriculture approaches”
+
+Other presentations
+=======
+* Forest Research Institute of the University of the Sunshine Coast (Queensland, Australia), presentation of "Can Acacia mangium plantations develop properties of remnant forests? A Machine Learning perspective​" (FRI Showcase, October 2025)
+* Cawthron Institute (Nelson, New Zealand)  presentation of my PhD research and early results (December 2024)
+* University of Auckland (Auckland, New Zealand), presentation of my PhD research and early results to the Ecology and Evolutionary Biology group at the School of Biological Sciences (November 2024)
+* Forest Research Institute of the University of the Sunshine Coast (Queensland, Australia), presentation of “Sustainability: what can we do?”. The presentation was focused on the basics of sustainability and actions to improve this concept in our lives (Lunch and Learn event, October 2024)
 
 Memberships
 ====
@@ -81,12 +90,6 @@ Memberships
 * Member of the [Society of Ecological Restoration](https://www.ser.org/) (March 2025-ongoing)
 * Member of the [Society for Conservation Biology](https://conbio.org/) (March 2025-ongoing)
 * Member of the [Forestry Australia Association](https://www.forestry.org.au/) (June 2025-ongoing)
-
-Other presentations
-=======
-* Cawthron Institute (Nelson, New Zealand)  presentation of my PhD research and early results (December 2024)
-* University of Auckland (Auckland, New Zealand), presentation of my PhD research and early results to the Ecology and Evolutionary Biology group at the School of Biological Sciences (November 2024)
-* Forest Research Institute of the University of the Sunshine Coast (Queensland, Australia), presentation of “Sustainability: what can we do?”. The presentation was focused on the basics of sustainability and actions to improve this concept in our life (October 2024)
 
 Relevant Accomplishment
 =====
