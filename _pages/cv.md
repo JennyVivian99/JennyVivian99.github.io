@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Forestry Studies, University of the Sunshine Coast, Queensland, Australia (November 2023-ongoing)
-  * Autumn Quantum School, organised by EuroCC competence centres of Sweden ENCCS in collaboration with EuroCC Denmark and EuroCC Lithuania. Supported by the WACQT              programme coordinated from Chalmers. Theoretical and practical foundations of quantum computing, with lectures and tutorials.
+  * Autumn Quantum School (3-7 November 2025). Held at RI.SE (Stockholm, Sweden). Organised by EuroCC competence centres of Sweden ENCCS in collaboration with EuroCC            Denmark and EuroCC Lithuania. Supported by the WACQT programme coordinated from Chalmers.
     
 * M.S. in Ecology and Ethology for Nature Conservation (September 2021-July 2023)                                                                                                                               
   Final thesis entitled “The Colombian socio-ecological system: dynamics of deforestation between conflicts and conservation”                                                                  
