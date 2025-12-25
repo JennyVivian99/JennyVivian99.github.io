@@ -44,7 +44,7 @@ Work experience
   * University of Parma (Italy)
   * Supervisor: Professor Valeria Rossi
   
-Technical skills
+Technical and soft skills
 ======
 * Mother tongue: Italian
 * Other languages:
@@ -52,6 +52,7 @@ Technical skills
 * Technical skills:
   * Fluent use of: R (for ecological and bioinformatics analysis)
   * Other programs: Python, QGIS
+  * STAGE Virtual Masterclass, organised by Vinh Giang
 
 Grants and awards
 ======
