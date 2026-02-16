@@ -10,7 +10,7 @@ author_profile: true
 
 PhD related
 =========
-1.[Acacia mangium monocultures can catalyse the recovery of the tree community and aboveground carbon stock in the Philippines](https://www.sciencedirect.com/science/article/pii/S0378112725008655)                  
+1. [Acacia mangium monocultures can catalyse the recovery of the tree community and aboveground carbon stock in the Philippines](https://www.sciencedirect.com/science/article/pii/S0378112725008655)                  
 **Jenny Vivian**, Robin L. Chazdon, Alexandra A. Catling, Alison Shapcott, John Herbohn, and David J. Lee                                        
 Forest Ecology and Management, February 2026                                                                                   
 2. [Early Evidences of Links Between Soil Microbes and Forest Restoration Through Multiple Ecosystem Metrics](https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2025.1540513/full)                                                                                             
