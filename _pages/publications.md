@@ -26,7 +26,3 @@ Philosophical Transactions of the Royal Society B, June 2024
 Rachel L. Tulloch, Clare I.M. Adams, Matthew A. Barnes, Elizabeth L. Clare, Henrik C. van de Ven, Andrew Cridge, Francisco Encinas-Viso, Kristen Fernandes, Dianne M. Gleeson, Erin Hill, Anna J.M. Hopkins, Anna M. Kearns, Gracie C. Kroos, Anna J. MacDonald, Francesco Martoni, Angela McGaughran, Todd G.B. McLay, Linda E Neaves, Paul Nevill, Andrew Pugh, Kye J. Robinson, Fabian Roger, Tracey V. Steinrucken, Mieke van der Heyde, Cecilia Villacorta-Rath, **Jenny Vivian**, and Erin Hahn                      
 Environmental DNA, July 2025
 
-Website visits
-=========
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=mYlvGMgZtNutq9Ne3EAA3c84i8wiRCqkit9gBMpc_08'></script>
-
