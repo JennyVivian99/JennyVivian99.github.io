@@ -11,6 +11,7 @@ author_profile: true
 Publications PhD-related
 =========
 1. [Recovery of soil microbiota in naturally regenerating Acacia mangium ecosystems](https://doi.org/10.7717/peerj.21048)
+
 **Jenny Vivian**, Michelle Scriver, Anastasija Zaiko, Alison Shapcott, Robin L. Chazdon, Alexandra A. Catling, and David J. Lee
 PeerJ, April 2026
 3. [Acacia mangium monocultures can catalyse the recovery of the tree community and aboveground carbon stock in the Philippines](https://www.sciencedirect.com/science/article/pii/S0378112725008655)                  
