@@ -60,7 +60,7 @@ Grants and awards
 ======
 * Grant “Quantum and Advanced Technologies Talent Building Program” for the development of research on merging quantum computing in ecology, from the Queensland Government (20,000 AUD) (October 2025)
 * Culture Champion Award for "outstanding contributions helping to build and nurture the caring, supportive culture in the workplace" (50 AUD) (August 2025)
-* Prize for the development of my research (from 1st place in the 3-minute thesis competition at Forest Research Institute of the University of the Sunshine Coast (500 AUD) (June 2025)
+* Prize for winning the 3-minute thesis competition at Forest Research Institute of the University of the Sunshine Coast (500 AUD) (June 2025)
 * Bursary to attend the Australian & New Zealand Environmental DNA (eDNA) Conference (up to 2300 AUD) (Wellington, February 2025)
 * Partial funding to attend the Society of Ecological Restoration conference (200 USD) (Denver, October 2025)
 * Travel Award from the Ecological Society of Australia, to attend the ESA conference (150 AUD) (Melbourne, December 2024)
