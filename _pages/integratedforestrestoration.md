@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Integrated Forest Restoration"
-permalink: /IntegratedForestRestoration/
+permalink: /integratedforestrestoration/
 author_profile: true
 ---
 {% include base_path %}
