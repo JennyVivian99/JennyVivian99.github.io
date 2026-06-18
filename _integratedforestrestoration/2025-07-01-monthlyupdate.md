@@ -2,7 +2,7 @@
 title: "Monthly update: July 2025"
 collection: integratedforestrestoration
 type: "Talk"
-permalink: /integratedforestrestoration/2025-07-01-monthlyupdate
+permalink: /integratedforestrestoration/2025-07-01-monthlyupdate/
 ---
 ## Monthly update: July🌴
 🌱We crossed the halfway point of the year, and for this month, I want to share some interesting webinars, articles, and websites to improve your knowledge on forest restoration, considering different perspectives.🌳
