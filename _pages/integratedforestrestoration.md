@@ -5,6 +5,6 @@ permalink: /integratedforestrestoration/
 author_profile: true
 ---
 {% include base_path %}
-{% for post in site.integratedforestrestoration %}
+{% for post in site.integratedforestrestoration reverse %}
       {% include archive-single.html %}
 {% endfor %}
