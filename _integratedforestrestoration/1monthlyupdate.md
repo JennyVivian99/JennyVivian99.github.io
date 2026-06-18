@@ -3,7 +3,7 @@ title: "Monthly update: July 2025"
 collection: integratedforestrestoration
 layout: single
 permalink: /integratedforestrestoration/1monthlyupdate
-excerpt:
+excerpt: "We crossed the halfway point of the year, and for this month, I want to share..."
 ---
 # Monthly update: July 2025🌴
 🌱We crossed the halfway point of the year, and for this month, I want to share some interesting webinars, articles, and websites to improve your knowledge on forest restoration, considering different perspectives.🌳
