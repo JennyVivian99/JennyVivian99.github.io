@@ -284,12 +284,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _IntegratedForestRestoration
+  # _integratedforestrestoration
   - scope:
       path: ""
       type: integratedforestrestoration
     values:
-      layout: archive
+      layout: single
       author_profile: true
       share: true
 
