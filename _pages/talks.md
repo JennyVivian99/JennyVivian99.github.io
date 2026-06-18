@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Other interests"
 permalink: /talks/
 author_profile: true
 ---
