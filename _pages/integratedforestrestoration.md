@@ -5,13 +5,19 @@ permalink: /integratedforestrestoration/
 author_profile: true
 ---
 {% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
 
-<ul>
-  {% for post in site.integratedforestrestoration %}
-    <li>
-      <h2><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
-      <p><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
-      <p>{{ post.excerpt }}</p>
-    </li>
+{% for collection in site.integratedforestrestoration %}
+  {% unless collection.output == false or collection.label == "posts" %}
+    {% capture label %}{{ collection.label }}{% endcapture %}
+    {% if label != written_label %}
+      <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+      {% capture written_label %}{{ label }}{% endcapture %}
+    {% endif %}
+  {% endunless %}
+  {% for post in collection.docs %}
+    {% unless collection.output == false or collection.label == "posts" %}
+      {% include archive-single.html %}
+    {% endunless %}
   {% endfor %}
-</ul>
+{% endfor %}
