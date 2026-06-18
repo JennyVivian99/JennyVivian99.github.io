@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Blog"
-permalink: /blog/
+title: "Integrated Forest Restoration"
+permalink: /IntegratedForestRestoration/
 author_profile: true
 ---
