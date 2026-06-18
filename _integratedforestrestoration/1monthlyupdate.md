@@ -1,7 +1,6 @@
 ---
 title: "Monthly update: July 2025"
 collection: integratedforestrestoration
-type: "Talk"
 layout: single
 permalink: /integratedforestrestoration/1monthlyupdate
 excerpt:
