@@ -6,6 +6,12 @@ author_profile: true
 ---
 {% include base_path %}
 
-{% for post in site.integratedforestrestoration %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul>
+  {% for post in site.integratedforestrestoration %}
+    <li>
+      <h2><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
+      <p><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
