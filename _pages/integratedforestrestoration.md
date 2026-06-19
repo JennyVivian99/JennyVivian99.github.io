@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Background
-<img src="/images/SINProfile.jpeg" alt="SIN Profile" style="float: left; width: 250px; margin: 0 0 15px 15px;">
+<img src="/images/SINProfile.jpg" alt="SINProfile" style="float: left; width: 250px; margin: 0 0 15px 15px;">
 The Integrated Forest Restoration Special Interest Network within the [Ecological Society of Australia](https://www.ecolsoc.org.au/category/research-chapters/integrated-forest-restoration/) was created after one of the biggest ESA conferences (ESA 2024), following the willingness of Jenny Vivian to create a supportive network for the promotion of integrated forest restoration, thus considering multiple aspects of the ecosystem and cutting-edge techniques. During ESA2024, it was clear the need to connect different experts and early-career researchers from different spheres of studies, who have the same objective: to restore forest ecosystems. To ensure the re-establishment of the forest ecosystems in degraded lands, and threatened by climate change, the comprehension of multiple environmental aspects is fundamental: soil, vegetation, animals and abiotic traits must all be considered. 
 
 ## Aim
