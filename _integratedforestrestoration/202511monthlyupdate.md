@@ -2,7 +2,7 @@
 title: "Monthly update: November 2025"
 collection: integratedforestrestoration
 layout: single
-permalink: /integratedforestrestoration/1monthlyupdate
+permalink: /integratedforestrestoration/202511monthlyupdate
 excerpt: "Time flies, and we are already toward the end of the year..."
 ---
 # Monthly update: November🌴
