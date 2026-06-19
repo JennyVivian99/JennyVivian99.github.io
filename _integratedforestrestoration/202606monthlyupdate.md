@@ -2,7 +2,7 @@
 title: "Monthly update: June 2026"
 collection: integratedforestrestoration
 layout: single
-permalink: /integratedforestrestoration/1monthlyupdate
+permalink: /integratedforestrestoration/202606monthlyupdate
 excerpt: "Nature expresses the beauty of life through many different forms..."
 ---
 # 🌱🌴Monthly update: June 2026🌊⛅
