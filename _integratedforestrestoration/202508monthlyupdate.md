@@ -2,7 +2,7 @@
 title: "Monthly update: August 2025"
 collection: integratedforestrestoration
 layout: single
-permalink: /integratedforestrestoration/1monthlyupdate
+permalink: /integratedforestrestoration/202508monthlyupdate
 excerpt: "The summer is getting quite hot in the Northern hemisphere..."
 ---
 # Monthly update: August 🌵🌲
