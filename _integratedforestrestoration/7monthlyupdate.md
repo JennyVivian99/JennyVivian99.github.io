@@ -1,5 +1,5 @@
 ---
-title: "Monthly update: January 2025"
+title: "Monthly update: January 2026"
 collection: integratedforestrestoration
 layout: single
 permalink: /integratedforestrestoration/1monthlyupdate
