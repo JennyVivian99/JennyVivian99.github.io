@@ -2,7 +2,7 @@
 title: "Monthly update: October 2025"
 collection: integratedforestrestoration
 layout: single
-permalink: /integratedforestrestoration/1monthlyupdate
+permalink: /integratedforestrestoration/202510monthlyupdate
 excerpt: "October has already arrived, and with it the scent of the flowers starting to bloom..."
 ---
 # Monthly update: October 🌱🌺🥧🍂
