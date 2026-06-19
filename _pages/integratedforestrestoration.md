@@ -38,10 +38,3 @@ For enquiries and to get in touch: integratedforestrestoration@gmail.com
     </li>
   {% endfor %}
 </ul>
-
-## Posts
-{% include base_path %}
-
-{% for post in site.integratedforestrestoration reversed %}
-  {% include archive-single.html %}
-{% endfor %}
