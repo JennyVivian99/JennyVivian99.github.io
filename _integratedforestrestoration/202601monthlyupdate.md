@@ -2,7 +2,7 @@
 title: "Monthly update: January 2026"
 collection: integratedforestrestoration
 layout: single
-permalink: /integratedforestrestoration/1monthlyupdate
+permalink: /integratedforestrestoration/202601monthlyupdate
 excerpt: "The new year has arrived! What is a better way to start this journey..."
 ---
 # 🍃Monthly update: January🌷
