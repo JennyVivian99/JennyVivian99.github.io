@@ -2,7 +2,7 @@
 title: "Monthly update: March 2026"
 collection: integratedforestrestoration
 layout: single
-permalink: /integratedforestrestoration/1monthlyupdate
+permalink: /integratedforestrestoration/202603monthlyupdate
 excerpt: "How beautiful it is to wake up to the sound..."
 ---
 # 🌾Monthly update: March 2026🌺
