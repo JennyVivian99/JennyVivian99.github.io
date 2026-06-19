@@ -3,7 +3,7 @@ title: "Monthly update: March 2026"
 collection: integratedforestrestoration
 layout: single
 permalink: /integratedforestrestoration/1monthlyupdate
-excerpt: "We crossed the halfway point of the year, and for this month, I want to share..."
+excerpt: "How beautiful it is to wake up to the sound..."
 ---
 # 🌾Monthly update: March 2026🌺
 How beautiful it is to wake up to the sound of birds chirping?🐦
