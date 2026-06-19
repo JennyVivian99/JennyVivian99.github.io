@@ -3,7 +3,7 @@ title: "Monthly update: August 2025"
 collection: integratedforestrestoration
 layout: single
 permalink: /integratedforestrestoration/1monthlyupdate
-excerpt: "We crossed the halfway point of the year, and for this month, I want to share..."
+excerpt: "The summer is getting quite hot in the Northern hemisphere..."
 ---
 # Monthly update: August 🌵🌲
 The summer is getting quite hot in the Northern hemisphere ☀️, while in the Southern hemisphere it is freezing ❄️. 
