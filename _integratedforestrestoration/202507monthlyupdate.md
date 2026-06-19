@@ -2,7 +2,7 @@
 title: "Monthly update: July 2025"
 collection: integratedforestrestoration
 layout: single
-permalink: /integratedforestrestoration/1monthlyupdate
+permalink: /integratedforestrestoration/202507monthlyupdate
 excerpt: "We crossed the halfway point of the year, and for this month, I want to share..."
 ---
 # Monthly update: July 2025🌴
