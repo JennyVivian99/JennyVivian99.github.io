@@ -2,7 +2,7 @@
 title: "Monthly update: May 2026"
 collection: integratedforestrestoration
 layout: single
-permalink: /integratedforestrestoration/1monthlyupdate
+permalink: /integratedforestrestoration/202605monthlyupdate
 excerpt: "It is always fascinating how complex Nature is, and sometimes..."
 ---
 # 🌻🌿Monthly update: May 2026🌳🍂
