@@ -2,7 +2,7 @@
 title: "Monthly update: February 2026"
 collection: integratedforestrestoration
 layout: single
-permalink: /integratedforestrestoration/1monthlyupdate
+permalink: /integratedforestrestoration/202602monthlyupdate
 excerpt: "It is now starting the second month of the year, and the weather..."
 ---
 # 🍂Monthly update: February🍃
