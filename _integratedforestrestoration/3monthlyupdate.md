@@ -3,7 +3,7 @@ title: "Monthly update: September 2025"
 collection: integratedforestrestoration
 layout: single
 permalink: /integratedforestrestoration/1monthlyupdate
-excerpt: "Leaves will soon be green again in the southern hemisphere..."
+excerpt: "Leaves will soon be green again in the Southern hemisphere..."
 ---
 # Monthly update: September 🌾🍃
 Leaves will soon be green again in the southern hemisphere, while in the northern part of the world, fields of wheat will soon be harvested. A heterogeneous and complementary world, where Nature astonishingly exposes her beauty. Let’s dig deeper into how we can help her... 
