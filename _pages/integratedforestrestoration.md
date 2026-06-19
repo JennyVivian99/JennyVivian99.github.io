@@ -27,7 +27,7 @@ Specifically, the e-mails will include:
 Resources and links to videos and organised meetings are also listed in the posts below.
 
 ## Contacts
-Chair of Integrated Forest Restoration: Jenny Vivian, PhD candidate at UniSC: jennyvivian99@gmail.com
+Chair of Integrated Forest Restoration: Jenny Vivian, PhD candidate at UniSC: jenny.vivian@research.usc.edu.au OR jennyvivian99@gmail.com
 For enquiries and to get in touch: integratedforestrestoration@gmail.com 
 
 ## Posts
