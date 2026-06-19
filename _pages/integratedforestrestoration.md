@@ -31,6 +31,15 @@ Chair of Integrated Forest Restoration: Jenny Vivian, PhD candidate at UniSC: je
 For enquiries and to get in touch: integratedforestrestoration@gmail.com 
 
 ## Posts
+<ul>
+  {% for post in site.integratedforestrestoration reversed %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+## Posts
 {% include base_path %}
 
 {% for post in site.integratedforestrestoration reversed %}
