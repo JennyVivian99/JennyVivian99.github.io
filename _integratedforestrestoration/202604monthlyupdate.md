@@ -2,7 +2,7 @@
 title: "Monthly update: April 2026"
 collection: integratedforestrestoration
 layout: single
-permalink: /integratedforestrestoration/1monthlyupdate
+permalink: /integratedforestrestoration/202604monthlyupdate
 excerpt: "Highly dynamic, most of the time unpredictable and complex..."
 ---
 # 🌻🌿Monthly update: April 2026🌳🍂
