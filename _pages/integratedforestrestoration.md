@@ -31,3 +31,14 @@ Resources and links to videos and organised meetings are also listed in the post
 ## Contacts
 Chair of Integrated Forest Restoration: Jenny Vivian, PhD candidate at UniSC: jennyvivian99@gmail.com
 For enquiries and to get in touch: integratedforestrestoration@gmail.com 
+
+## Posts
+<ul>
+  {% for post in site.integratedforestrestoration reversed %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <!-- Optional: Add a date or description if you have them in your front matter -->
+      <!-- <span>{{ post.date | date: "%B %d, %Y" }}</span> -->
+    </li>
+  {% endfor %}
+</ul>
