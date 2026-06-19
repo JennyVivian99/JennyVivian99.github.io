@@ -2,7 +2,7 @@
 title: "Monthly update: December 2025"
 collection: integratedforestrestoration
 layout: single
-permalink: /integratedforestrestoration/1monthlyupdate
+permalink: /integratedforestrestoration/202512monthlyupdate
 excerpt: "Winter is coming in the Northern Hemisphere..."
 ---
 # Monthly update: December🌴
