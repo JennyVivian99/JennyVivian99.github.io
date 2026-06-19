@@ -4,9 +4,6 @@ title: "Integrated Forest Restoration"
 permalink: /integratedforestrestoration/
 author_profile: true
 ---
-{% include base_path %}
-  {% for post in site.integratedforestrestoration %}
-{% endfor %}
 
 ## Background
 The Integrated Forest Restoration Special Interest Network within the [Ecological Society of Australia](https://www.ecolsoc.org.au/category/research-chapters/integrated-forest-restoration/) was created after one of the biggest ESA conferences (ESA 2024), following the willingness of Jenny Vivian to create a supportive network for the promotion of integrated forest restoration, thus considering multiple aspects of the ecosystem and cutting-edge techniques. During ESA2024, it was clear the need to connect different experts and early-career researchers from different spheres of studies, who have the same objective: to restore forest ecosystems. To ensure the re-establishment of the forest ecosystems in degraded lands, and threatened by climate change, the comprehension of multiple environmental aspects is fundamental: soil, vegetation, animals and abiotic traits must all be considered. 
