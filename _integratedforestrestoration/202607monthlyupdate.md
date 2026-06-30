@@ -20,3 +20,9 @@ How is it possible, that we know almost nothing about the biggest ecosystem in t
 Best regards,
 
 Jenny Vivian
+Lead Convenor, PhD Candidate, Forest Research Institute
+University of the Sunshine Coast, Australia 
+Jenny.Vivian@research.usc.edu.au
+https://www.ecolsoc.org.au/category/research-chapters/integrated-forest-restoration/
+https://jennyvivian99.github.io/
+https://www.linkedin.com/in/jenny-vivian-a0703a270/ 
