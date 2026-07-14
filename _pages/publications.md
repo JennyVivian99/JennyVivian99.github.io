@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Publications PhD-related
+PhD-related
 =========
 1. [Toward a deeper understanding of recovery trajectories in forest ecosystem restoration: a machine learning approach](https://doi.org/10.1111/rec.70483)                  
 **Jenny Vivian**, Robin L. Chazdon, Alison Shapcott, and David J. Lee                                                                                
@@ -23,7 +23,7 @@ Forest Ecology and Management, February 2026
 **Jenny Vivian**, Robin L. Chazdon, Alexandra A. Catling, and David J. Lee                                                                                        
 Frontiers in Forests and Global Change, May 2025
 
-Publications on other projects
+From other projects
 ========
 1. [The web of conflict-related interactions in Colombia: exploring causal linkages between ecological and social variables by the qualitative loop analysis](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2023.0165)                                             
 Antonio Bodini, **Jenny Vivian**, Juan Vargas, Nicola Clerici, and Marco Scotti                                                        
