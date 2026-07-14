@@ -29,16 +29,17 @@ Publications on other projects
 Antonio Bodini, **Jenny Vivian**, Juan Vargas, Nicola Clerici, and Marco Scotti                                                        
 Philosophical Transactions of the Royal Society B, June 2024
 2. [Logging legacies in the Australian tropics: 56-years of skid trail recovery](https://www.sciencedirect.com/science/article/pii/S0378112726005736)
-Alexandra A. Catling, Vitoria D. Derisso, Lief E. D. Gamalo, John Herbohn, Calum L. McRae, Matthew G. Mooney, Charlotte E. Raven, **Jenny Vivian**, and Francis E. Putz
+Alexandra A. Catling, Vitoria D. Derisso, Lief E. D. Gamalo, John Herbohn, Calum L. McRae, Matthew G. Mooney, Charlotte E. Raven, **Jenny Vivian**, and Francis E. Putz                                                                                             
 Forest Ecology and Management, November 2026
 4. [Winds of change: Charting a pathway to ecosystem monitoring using airborne environmental DNA](https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.70134)  
 Rachel L. Tulloch, Clare I.M. Adams, Matthew A. Barnes, Elizabeth L. Clare, Henrik C. van de Ven, Andrew Cridge, Francisco Encinas-Viso, Kristen Fernandes, Dianne M. Gleeson, Erin Hill, Anna J.M. Hopkins, Anna M. Kearns, Gracie C. Kroos, Anna J. MacDonald, Francesco Martoni, Angela McGaughran, Todd G.B. McLay, Linda E Neaves, Paul Nevill, Andrew Pugh, Kye J. Robinson, Fabian Roger, Tracey V. Steinrucken, Mieke van der Heyde, Cecilia Villacorta-Rath, **Jenny Vivian**, and Erin Hahn                      
 Environmental DNA, July 2025
 5. [Understanding causal linkages in the post-conflict Colombia socio-ecological system](https://doi.org/10.1007/s42974-026-00318-0)                                                        
-Antonio Bodini, **Jenny Vivian**                                                          
+Antonio Bodini, **Jenny Vivian**                                                                                                                                
 Community Ecology, June 2026
 
 Outreach
 =========
 [Soil eDNA as a Tool for Tracking Reforestation Outcomes](https://www.sequench.co.nz/portfolio-item/biodiversity-exploration/soil-edna-as-a-tool-for-tracking-refrestation-outcomes/)
 
+[My PhD experience at UniSC](https://www.linkedin.com/posts/unisc-forest-research-institute_phdjourney-forestresearch-reforestation-activity-7472823838788059136-2K6i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEI2fCcB-OPXfDE6Yxo9QzGwy6juOpEwCtc)
