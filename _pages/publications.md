@@ -28,7 +28,7 @@ From other projects
 1. [The web of conflict-related interactions in Colombia: exploring causal linkages between ecological and social variables by the qualitative loop analysis](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2023.0165)                                             
 Antonio Bodini, **Jenny Vivian**, Juan Vargas, Nicola Clerici, and Marco Scotti                                                        
 Philosophical Transactions of the Royal Society B, June 2024
-2. [Logging legacies in the Australian tropics: 56-years of skid trail recovery](https://www.sciencedirect.com/science/article/pii/S0378112726005736)
+2. [Logging legacies in the Australian tropics: 56-years of skid trail recovery](https://www.sciencedirect.com/science/article/pii/S0378112726005736)                                             
 Alexandra A. Catling, Vitoria D. Derisso, Lief E. D. Gamalo, John Herbohn, Calum L. McRae, Matthew G. Mooney, Charlotte E. Raven, **Jenny Vivian**, and Francis E. Putz                                                                                             
 Forest Ecology and Management, November 2026
 4. [Winds of change: Charting a pathway to ecosystem monitoring using airborne environmental DNA](https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.70134)  
