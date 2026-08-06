@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Research on tropical ecology, with a focus on the development of the environment after deforestation.
-With a background in ecological modelling, I adopt an integrated approach to better understand the evolution of the natural systems, especially tropical forest recovery.
+Research on tropical ecology, with a focus on forest restoration.
+I integrate traditional and cutting-edge analytical tools to comprehensively recognize the modification of the ecosystem.
 
 !["WebsiteHome.png"](images/WebsiteHome.png)
 
-
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=fceda7&w=700&t=n&d=uiTY3W9zZhuKyQoIHKeMNdvoWxznmJ3q2Y0wyldO0G0&co=b2e5f9&cmo=539aff&cmn=00c5ff'></script>
