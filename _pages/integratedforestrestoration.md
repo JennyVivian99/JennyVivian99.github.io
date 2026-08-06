@@ -17,7 +17,7 @@ Furthermore, the Integrated Forest Restoration Special interest network aims to 
 Taking advantage of advances in cross-sectors is imperative to achieve the restoration goals and properly manage the ecosystem to ensure its conservation in Australia, but also all over the world. 
 
 ## Engagement
-News, cutting-edge techniques and articles focused on the topic of integrated forest restoration will be shared monthly through e-mail. To sign up, please click [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc3THm26QpPJuVaX5vZumHaCjOhydnHefc6R6IGIIKJ5H91PQ/viewform)
+News, cutting-edge techniques and articles focused on the topic of integrated forest restoration will be shared monthly through e-mail. To sign up click [here](https://docs.google.com/forms/d/e/1FAIpQLSc3THm26QpPJuVaX5vZumHaCjOhydnHefc6R6IGIIKJ5H91PQ/viewform).
 
 Specifically, the e-mails will include: 
 -forest restoration advances related to the different aspects of the ecosystem
