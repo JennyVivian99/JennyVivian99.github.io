@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Downloadable version of the CV [here](./files/Jenny VivianCV.pdf)
+Downloadable version of the CV [here](/files/Jenny VivianCV.pdf)
 
 Education
 ======
