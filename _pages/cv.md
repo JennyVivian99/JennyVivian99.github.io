@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Downloadable version of the CV [here](./files/Jenny VivianCV.pdf)
+
 Education
 ======
 * Ph.D in Forestry Studies, University of the Sunshine Coast, Queensland, Australia (November 2023-ongoing, thesis submitted 8th June 2026)
