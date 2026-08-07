@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For a downloadable version of the CV, click [here]({{ base_path }}//files/JennyVivianCV.pdf)
+For a downloadable version of the CV, click [here]({{ base_path }}//files/JennyVivianCV.PDF)
 
 Education
 ======
