@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-#For a downloadable version of the CV, click [here]({{ base_path }}//files/JennyVivianCV.PDF)
 For a downloadable version of the CV, click <a href="{{ base_path }}/files/JennyVivianCV.PDF" target="_blank" rel="noopener noreferrer">here</a>.
 
 Education
