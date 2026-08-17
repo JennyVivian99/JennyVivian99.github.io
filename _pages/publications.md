@@ -10,7 +10,10 @@ author_profile: true
 
 PhD-related
 =========
-1. [Toward a deeper understanding of recovery trajectories in forest ecosystem restoration: a machine learning approach](https://doi.org/10.1111/rec.70483)                  
+1. [Microbial rhizosphere and topsoil communities in young reforestation plantations](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1915742/abstract)
+**Jenny Vivian**, Alison Shapcott, Robin L. Chazdon, and David J. Lee                                                                                
+Frontiers in Microbiology, August 2026
+2. [Toward a deeper understanding of recovery trajectories in forest ecosystem restoration: a machine learning approach](https://doi.org/10.1111/rec.70483)                  
 **Jenny Vivian**, Robin L. Chazdon, Alison Shapcott, and David J. Lee                                                                                
 Restoration Ecology, June 2026
 3. [Recovery of soil microbiota in naturally regenerating _Acacia mangium_ ecosystems](https://doi.org/10.7717/peerj.21048)                  
