@@ -74,6 +74,7 @@ Grants and awards
 
 Conferences
 ======
+* European conference on ecological restoration (SERE2025; Brest, August 2026): presentation of part of my PhD and side-project results, entitled "Assessment of forest restoration projects: efficiency of cutting-edge techniques and comprehensive analysis" and "Optimized spatial planning in forest restoration via quantum algorithms: a proof of concept for viable plans"
 * Forestry Australia Conference (Adelaide, October 2025): presentation of part of my project results, entitled "Trajectories of forest ecosystem recovery with Acacia mangium in the Philippines: what made it a successful story"
 * World conference on ecological restoration (SER2025; Denver, September 2025): presentation of part of my project results, entitled "Can Acacia mangium plantations develop properties of remnant forests? ​A Machine Learning perspective"
 * International Conference on Conservation Biology (ICCB; Brisbane, June 2025): presentation of part of my project results, entitled "Recovery of tree communities and above-ground carbon stock in Acacia mangium reforestation sites​" 
