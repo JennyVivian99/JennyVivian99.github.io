@@ -13,7 +13,7 @@ For a downloadable version of the CV, click <a href="{{ base_path }}/files/Jenny
 
 Education
 ======
-* Ph.D in Forestry Studies, University of the Sunshine Coast, Queensland, Australia (November 2023-ongoing, thesis submitted 8th June 2026)
+* Ph.D in Forestry Studies, University of the Sunshine Coast, Queensland, Australia (November 2023-August 2026)
   * Autumn Quantum School (3-7 November 2025). Held at RI.SE (Stockholm, Sweden). Organised by EuroCC competence centres of Sweden ENCCS in collaboration with EuroCC            Denmark and EuroCC Lithuania. Supported by the WACQT programme coordinated from Chalmers.
     
 * M.S. in Ecology and Ethology for Nature Conservation (September 2021-July 2023)                                                                                                                               
