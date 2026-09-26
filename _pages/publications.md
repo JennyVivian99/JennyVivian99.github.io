@@ -26,7 +26,7 @@ Forest Ecology and Management, February 2026
 **Jenny Vivian**, Robin L. Chazdon, Alexandra A. Catling, and David J. Lee                                                                                        
 Frontiers in Forests and Global Change, May 2025
 
-Thesis: [The effect of reforestation using Acacia mangium on above-and belowground ecosystem properties](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=HuZF4N0AAAAJ&citation_for_view=HuZF4N0AAAAJ:Se3iqnhoufwC)                                                                                                                          **Jenny Vivian**                                                                                                                                                                                            University of the Sunshine Coast, August 2026
+Thesis: [The effect of reforestation using Acacia mangium on above-and belowground ecosystem properties](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=HuZF4N0AAAAJ&citation_for_view=HuZF4N0AAAAJ:Se3iqnhoufwC)                                                                                                                                                     **Jenny Vivian**                                                                                                                                                                                            University of the Sunshine Coast, August 2026
 
 From other projects
 ========
