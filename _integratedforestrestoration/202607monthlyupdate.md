@@ -20,12 +20,5 @@ In this month, once more, we should remember the beauty of forests, prairies and
 ## 💻Webinars 📽
 How is it possible, that we know almost nothing about the biggest ecosystem in the Alps, Christian? By Christian Komposch (https://www.youtube.com/watch?v=46KvVdMcSyQ&list=PL7Of__ykSv9RyqfWZx8fKrQBUNNPqWXRI&index=27)
 
-Best regards,
-
+Best regards,                            
 Jenny Vivian
-Lead Convenor, PhD Candidate, Forest Research Institute
-University of the Sunshine Coast, Australia 
-Jenny.Vivian@research.usc.edu.au
-https://www.ecolsoc.org.au/category/research-chapters/integrated-forest-restoration/
-https://jennyvivian99.github.io/
-https://www.linkedin.com/in/jenny-vivian-a0703a270/ 
