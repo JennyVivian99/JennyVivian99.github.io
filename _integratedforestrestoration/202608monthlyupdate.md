@@ -14,7 +14,7 @@ This month, let's try to embrace the uncertainty and the changes of perspective,
 "Ecological novelty induced by climate change" of Wright et al. (2026) (https://doi.org/10.1038/s41558-026-02697-8)
 "Statistical analyses of ecological multinomial time series to identify environmental drivers and biotic interactions" of Asena et al. (2026) (https://doi.org/10.1111/2041-210x.70315)
 ## 📽Webinars 💻
-"Rethinking the land carbon sink: soils, microbes and forest recovery insights" By Dr. Cesar Terrer (https://www.youtube.com/watch?v=RJlsKXkxux8)
+"Rethinking the land carbon sink: soils, microbes and forest recovery insights" by Dr. Cesar Terrer (https://www.youtube.com/watch?v=RJlsKXkxux8)
 
 Best regards,                                            
 Jenny Vivian
