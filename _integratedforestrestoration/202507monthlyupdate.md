@@ -14,14 +14,5 @@ Seeding success: Integrating seed dispersal networks in tropical forest restorat
 ## Webinars🎥
 Check out “ForestConnect” https://www.youtube.com/user/ForestConnect, from https://blogs.cornell.edu/cceforestconnect/ of Cornell University.
 
-Best regards,
-
+Best regards,                  
 Jenny Vivian
-
-Lead Convenor, PhD Candidate, Forest Research Institute
-University of the Sunshine Coast, Australia 
-Jenny.Vivian@research.usc.edu.au
-https://www.ecolsoc.org.au/category/research-chapters/integrated-forest-restoration/
-https://jennyvivian99.github.io/
-
-
