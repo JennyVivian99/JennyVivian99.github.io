@@ -18,10 +18,4 @@ Long-term and strong efforts to make our planet healthy and thriving must not re
 "Managing for old forest characteristics" By Dr. Tony D’Amato Professor Paul Catanzaro (https://www.youtube.com/watch?v=nrQd9Fe2TjE&list=WL&index=27)
 
 Best regards,
-Jenny Vivian, PhD
-Lead Convenor, Forest Research Institute
-University of the Sunshine Coast, Australia 
-Jenny.Vivian@research.usc.edu.au
-https://www.ecolsoc.org.au/category/research-chapters/integrated-forest-restoration/
-https://jennyvivian99.github.io/
-https://www.linkedin.com/in/jenny-vivian-a0703a270/ 
+Jenny Vivian
