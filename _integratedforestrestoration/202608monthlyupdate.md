@@ -17,7 +17,6 @@ This month, let's try to embrace the uncertainty and the changes of perspective,
 "Rethinking the land carbon sink: soils, microbes and forest recovery insights" By Dr. Cesar Terrer (https://www.youtube.com/watch?v=RJlsKXkxux8)
 
 Best regards,
-
 Jenny Vivian
 Lead Convenor, PhD Candidate, Forest Research Institute
 University of the Sunshine Coast, Australia 
