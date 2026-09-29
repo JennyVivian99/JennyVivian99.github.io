@@ -12,7 +12,7 @@ Time flies, and we are already toward the end of the year. Eleven months have pa
 ## Article📑
 Article “A  place for alien species in ecosystem restoration” from Ewel and Putz (2004): https://doi.org/10.1890/1540-9295(2004)002[0354:APFASI]2.0.CO;2
 ## Webinar📺
-Intraspecific traits: key to uncovering mechanisms driving tropical forest dynamics: https://www.youtube.com/live/u0nM1GDA84E?feature=shared
+"Intraspecific traits: key to uncovering mechanisms driving tropical forest dynamics" (https://www.youtube.com/live/u0nM1GDA84E?feature=shared)
 
 Best regards,
 
