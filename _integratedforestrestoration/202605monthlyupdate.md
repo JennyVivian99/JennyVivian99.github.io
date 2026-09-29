@@ -13,7 +13,7 @@ What about them? In the proposed readings and seminars of this month we may find
 "Soil organic carbon recovery in tropical tree plantations may depend on restoration of soil microbial composition and function" of Bonner et al. (2019) (https://doi.org/10.1016/j.geoderma.2019.06.017)
 "Soil microbial interconnections along ecological restoration gradients of lowland forests after slash-and-burn agriculture" of Lin et al. (2021) (https://academic.oup.com/femsec/article/97/5/fiab063/6253248?login=true&guestAccessKey=#247124196)
 ## 📽 Webinars 💻
-"Why do we need to save old-growth forests, Zoltan?" by Kun Zoltàn (https://www.youtube.com/watch?v=uYRVOSwH3wM) 
+"Why do we need to save old-growth forests, Zoltan?" by Kun Zoltàn (https://www.youtube.com/watch?v=uYRVOSwH3wM) and 
 "Statistical approaches to soil carbon dynamics" by Professor Avi Flamholz (https://www.youtube.com/watch?v=LExoxJlxOGo&list=PLWoFuak18FGXvk_QHxxiDi9zLxevAe0IT&index=6) 
 
 Best regards,
