@@ -16,5 +16,5 @@ This month, let's try to embrace the uncertainty and the changes of perspective,
 ## 📽Webinars 💻
 "Rethinking the land carbon sink: soils, microbes and forest recovery insights" By Dr. Cesar Terrer (https://www.youtube.com/watch?v=RJlsKXkxux8)
 
-Best regards,
+Best regards,                                            
 Jenny Vivian
