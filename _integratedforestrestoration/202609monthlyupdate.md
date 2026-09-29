@@ -15,7 +15,7 @@ Long-term and strong efforts to make our planet healthy and thriving must not re
 "No rule of thumb explains tropical-forest carbon" of Uriarte & Macedo (2026) (https://doi.org/10.1038/d41586-026-02291-0)
 
 ## 📽Webinars 💻
-"Managing for old forest characteristics" By Dr. Tony D’Amato Professor Paul Catanzaro (https://www.youtube.com/watch?v=nrQd9Fe2TjE&list=WL&index=27)
+"Managing for old forest characteristics" By Dr. Tony D’Amato and Professor Paul Catanzaro (https://www.youtube.com/watch?v=nrQd9Fe2TjE&list=WL&index=27)
 
-Best regards,
+Best regards,             
 Jenny Vivian
