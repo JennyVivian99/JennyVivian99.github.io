@@ -11,8 +11,7 @@ Leaves will soon be green again in the southern hemisphere, while in the norther
 Brancalion, P. H., & Holl, K. D. (2025). Upscaling ecological restoration by integrating with agriculture. Frontiers in Ecology and the Environment, 23(1). https://doi.org/10.1002/fee.2802  
 Rother, D. C., Cosmo, L. G., Tavella, J., Windsor, F. M., Devoto, M., Evans, D. M., & Guimarães Jr., P. R. (2025). Spatial networks reveal how forest cover decreases the spread of agricultural pests. Perspectives in Ecology and Conservation. https://doi.org/10.1016/j.pecon.2025.03.006  
 ## Webinars 💻🎥
-How Nutrients and Plant Strategies Interact to Shape Terrestrial Ecosystems under Global Change: https://www.youtube.com/watch?v=Cr-2ti_a96g&list=PLWoFuak18FGXvk_QHxxiDi9zLxevAe0IT&index=85 
+"How Nutrients and Plant Strategies Interact to Shape Terrestrial Ecosystems under Global Change" (https://www.youtube.com/watch?v=Cr-2ti_a96g&list=PLWoFuak18FGXvk_QHxxiDi9zLxevAe0IT&index=85) 
 
-Best regards,
-
+Best regards,                                      
 Jenny Vivian
