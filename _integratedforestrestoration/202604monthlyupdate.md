@@ -13,8 +13,8 @@ Let’s explore some of the investigated dynamics!
 Long-term (1990–2019) monitoring of forest cover changes in the humid tropics by Vancutsem et al., 2021(https://www.science.org/doi/10.1126/sciadv.abe1603) 
 Favoring recruitment as a conservation strategy to improve the resilience of long- lived reptile populations: Insights from a population viability analysis by Rodrigues et al. 2021 (https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8021) 
 ## 📽 Webinars 💻
-Frugivory and seed dispersal in Madagascar’s biodiverse ecosystems: Onja Razafindratsima (https://www.youtube.com/watch?v=Jt0ZyzTZsF0) 
-Evolutionary and Ecological Biome Switches at Tropical Savanna-Forest Boundaries: Bill Hoffmann (https://www.youtube.com/watch?v=YXmvjxk-y6Q&list=PLCkeTyYllxhMstZfIgWVQDsxsEXXj0C18&index=36) 
+"Frugivory and seed dispersal in Madagascar’s biodiverse ecosystems" by Onja Razafindratsima (https://www.youtube.com/watch?v=Jt0ZyzTZsF0) 
+and "Evolutionary and Ecological Biome Switches at Tropical Savanna-Forest Boundaries" by Bill Hoffmann (https://www.youtube.com/watch?v=YXmvjxk-y6Q&list=PLCkeTyYllxhMstZfIgWVQDsxsEXXj0C18&index=36) 
 
 Best regards,
 Jenny Vivian
