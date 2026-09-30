@@ -38,7 +38,7 @@
   }
 
   @include breakpoint($x-large) {
-    // CHANGE: Replace the variable with a hardcoded maximum width (e.g., 200px)
+    // CHANGE: Replace the variable ("max-width: $sidebar-link-max-width;") with a hardcoded maximum width (e.g., 200px)
     max-width: 200px; 
     padding-right: 0;
   }
