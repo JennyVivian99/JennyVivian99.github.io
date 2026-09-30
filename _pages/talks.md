@@ -18,6 +18,6 @@ Wellbeing: Eating Disorders and Mental Health Awareness
 I strongly advocate for a healthy environment, not only in terms of vegetation or animal diversity, but also with respect to 
 interactions among people.
 Therefore, willing to make my past personal experiences useful for others, I share my story through a written book, thoughts, and talks.  
-- [Instagram account](https://www.instagram.com/unalotta_millepassi/) (Italian/English)
+- [Instagram account](https://www.instagram.com/onefight_thousandsteps/) (Italian/English)
 - [Talk](https://www.instagram.com/tv/C2KNAE5MCK2/?igsh=NDNnYTVkbTg2aTFp)
 - Biography (ask for a copy or information)
