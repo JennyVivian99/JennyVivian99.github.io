@@ -20,8 +20,14 @@
     padding-top: $masthead-height;
   }
 
-  @include breakpoint($large) {
-    @include span(2 of 12);
+@include breakpoint($large) {
+    // CHANGE: Reduce the grid span from "2 of 12" to something smaller like "1.5 of 12"
+    @include span(1.5 of 12); 
+    
+    // ALTERNATIVE: If you prefer a strict pixel width instead of a grid percentage, 
+    // delete the @include span line above and use this instead:
+    // width: 200px;
+
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -32,7 +38,8 @@
   }
 
   @include breakpoint($x-large) {
-    max-width: $sidebar-link-max-width;
+    // CHANGE: Replace the variable with a hardcoded maximum width (e.g., 200px)
+    max-width: 200px; 
     padding-right: 0;
   }
 
@@ -55,7 +62,6 @@
     width: 100%;
   }
 }
-
 .sidebar__right {
   margin-bottom: 1em;
 
