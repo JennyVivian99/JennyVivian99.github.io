@@ -12,7 +12,7 @@ The nutrient cycle is so important and evident in front of us. Yet, there is sti
 This month, I propose that you reflect on this topic, and also on the mechanisms that may help us to understand dynamics like this in the ecosystem.
 
 ## 📚 Articles and Books 📘
-"Mutualism Mediates Legume Response to Microbial Climate Legacies" of Boyle et al. (2025) (https://doi.org/10.1002/ece3.72271)
+"Mutualism Mediates Legume Response to Microbial Climate Legacies" of Boyle et al. (2025) (https://doi.org/10.1002/ece3.72271)                                                                                     
 "Changes in plant inputs alter soil carbon and microbial communities in forest ecosystems" of Feng et al. (2022) (https://doi.org/10.1111/gcb.16107)
 
 ## 📽Webinars 💻
