@@ -73,13 +73,15 @@ Grants and awards
 
 Conferences
 ======
+* UNESCO Chair on Sustainable Management of Conservation Areas (Online, October 2026): presentation “How is 
+_Acacia mangium_ affecting forest restoration in the Philippines, Jenny?”                                                                                                      
 * European conference on ecological restoration (SERE2025; Brest, August 2026): presentation of part of my PhD and side-project results, entitled "Assessment of forest restoration projects: efficiency of cutting-edge techniques and comprehensive analysis" and "Optimized spatial planning in forest restoration via quantum algorithms: a proof of concept for viable plans"
-* Forestry Australia Conference (Adelaide, October 2025): presentation of part of my project results, entitled "Trajectories of forest ecosystem recovery with Acacia mangium in the Philippines: what made it a successful story"
-* World conference on ecological restoration (SER2025; Denver, September 2025): presentation of part of my project results, entitled "Can Acacia mangium plantations develop properties of remnant forests? ​A Machine Learning perspective"
-* International Conference on Conservation Biology (ICCB; Brisbane, June 2025): presentation of part of my project results, entitled "Recovery of tree communities and above-ground carbon stock in Acacia mangium reforestation sites​" 
-* Australian & New Zealand Environmental DNA (eDNA) Conference (Wellington, February 2025): presentation of part of my project results, entitled "Evaluating soil fungi and bacteria in Acacia mangium plantations and remnant forests in the Philippines using environmental DNA​" 
+* Forestry Australia Conference (Adelaide, October 2025): presentation of part of my project results, entitled "Trajectories of forest ecosystem recovery with _Acacia mangium_ in the Philippines: what made it a successful story"
+* World conference on ecological restoration (SER2025; Denver, September 2025): presentation of part of my project results, entitled "Can _Acacia mangium_ plantations develop properties of remnant forests? ​A Machine Learning perspective"
+* International Conference on Conservation Biology (ICCB; Brisbane, June 2025): presentation of part of my project results, entitled "Recovery of tree communities and above-ground carbon stock in _Acacia mangium_ reforestation sites​" 
+* Australian & New Zealand Environmental DNA (eDNA) Conference (Wellington, February 2025): presentation of part of my project results, entitled "Evaluating soil fungi and bacteria in _Acacia mangium_ plantations and remnant forests in the Philippines using environmental DNA​" 
 * Ecological Society Conference (ESA; December 2024, Melbourne): poster presentation of my research and early results
-* University of the Sunshine Coast Conference (Sippy Downs, September 2024): poster presentation of my research at the University of the Sunshine Coast Research Showcase, entitled "The effect of reforestation using Acacia mangium on above- and below-ground ecosystem properties"
+* University of the Sunshine Coast Conference (Sippy Downs, September 2024): poster presentation of my research at the University of the Sunshine Coast Research Showcase, entitled "The effect of reforestation using _Acacia mangium_ on above- and below-ground ecosystem properties"
 * Airborne eDNA workshop (June 2024, Canberra, attended online): presentation of a project entitled “Air DNA analysis and Machine Learning: a promising collaboration”
 * Climate Exp0 (May 2021, Online): presentation of a project entitled “Sustainable agriculture approaches”
 
