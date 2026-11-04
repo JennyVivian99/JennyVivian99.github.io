@@ -12,7 +12,7 @@ PhD-related
 =========
 1. [Cost-effective assessment of forest restoration projects: merging advanced techniques with comprehensive analysis](https://onlinelibrary.wiley.com/doi/10.1111/rec.70595)                                       
 **Jenny Vivian**, Robin L. Chazdon, and David J. Lee                                                                                
-Frontiers in Microbiology, October 2026
+Frontiers in Microbiology, November 2026
 2. [Microbial rhizosphere and topsoil communities in young reforestation plantations](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1915742/abstract)                                          
 **Jenny Vivian**, Alison Shapcott, Robin L. Chazdon, and David J. Lee                                                                                
 Frontiers in Microbiology, August 2026
