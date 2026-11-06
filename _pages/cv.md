@@ -87,6 +87,8 @@ _Acacia mangium_ affecting forest restoration in the Philippines, Jenny?”
 
 Other presentations
 =======
+* UNESCO Chair on Sustainable Management of Conservation Areas: presentation [“How is
+Acacia mangium affecting forest restoration in the Philippines, Jenny?”](https://lnkd.in/p/dgVt3m9q)
 * Forest Research Institute of the University of the Sunshine Coast (Queensland, Australia), presentation of "Can Acacia mangium plantations develop properties of remnant forests? A Machine Learning perspective​" (FRI Showcase, October 2025)
 * Cawthron Institute (Nelson, New Zealand)  presentation of my PhD research and early results (December 2024)
 * University of Auckland (Auckland, New Zealand), presentation of my PhD research and early results to the Ecology and Evolutionary Biology group at the School of Biological Sciences (November 2024)
